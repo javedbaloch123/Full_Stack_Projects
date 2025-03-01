@@ -1,2 +1,2 @@
 # Full_Stack_Projects
-This is my first full stack project successfully has completed
+This respository has full stack projects that I have built
