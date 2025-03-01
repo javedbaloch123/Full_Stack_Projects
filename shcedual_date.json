@@ -1,0 +1,44 @@
+[
+    
+   
+    {
+        "id": "1",
+        "date": "28",
+        "time":["8:30 AM - 9:30 AM" ,"9:30 AM - 10:30 AM"],
+         "day": "Fri",
+         "month":"FEBRUARY"
+    },
+
+
+    {
+        "id": "2",
+        "date": "10",
+        "time":["11:30 AM - 12:30 AM" ,"1:30 PM - 2:30 PM","8:30 AM - 9:30 AM"],
+         "day": "Mon",
+         "month":"march"
+    },
+    {
+        "id": "3",
+        "date": "12",
+        "time":["11:30 AM - 12:30 AM" ,"1:30 PM - 2:30 PM","8:30 AM - 9:30 AM"],
+         "day": "Wed",
+         "month":"march"
+    },
+
+    {
+        "id": "4",
+        "date": "15",
+        "time":["1:30 PM - 2:30 PM","8:30 AM - 9:30 AM"],
+         "day": "Sat",
+         "month":"march"
+    },
+
+    {
+        "id": "5",
+        "date": "16",
+        "time":["1:30 PM - 2:30 PM"],
+         "day": "Sun",
+         "month":"march"
+    }
+      
+]
